@@ -6,7 +6,7 @@ This repo contains the proof-of-concept files from my **DroidCon 2025** talk:
 It introduces a modular, stackable enclosure system that separates your droid’s electronics into focused, easy-to-swap modules—making your build safer, more maintainable, and beginner-friendly.
 
 📄 [Slides from the talk](./2025_droidcon_jbutts_slides.pdf)  
-🎥 [Watch the talk](https://www.youtube.com/watch?v=dneonUpu4NI)
+🎥 [Watch the talk](https://www.youtube.com/live/2-8KAig02zo)
 
 ---
 

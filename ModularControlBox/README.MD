@@ -76,4 +76,4 @@ This system is part of a broader effort to help people learn electronics by doin
 - A supportive, beginner-friendly community
 
 🛠️ **Join the community on Patreon**:  
-👉 [https://www.patreon.com/bringmagic](https)
+👉 https://www.patreon.com/bringmagic

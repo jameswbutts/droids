@@ -25,12 +25,12 @@ If you plan to use these enclosures in an operational robot, you’ll need to **
 
 These folders contain the STL files for each module's faceplates. Modules are stackable, tool-free, and follow a consistent enclosure size.
 
-#### 🟥 Power Module
+#### 🟨 Power Module
 - **Purpose**: Distributes power to other modules and systems.
 - **Connectors**: Barrel jacks, XT60s, voltmeters, switches.
 - **Use Case**: Central place for switching, metering, and routing voltage safely.
 
-#### 🟦 Motor Module
+#### 🟥 Motor Module
 - **Purpose**: Interfaces with motor controllers like Sabertooth and SyRen.
 - **Connectors**: Signal lines (PWM, serial), voltage input, XT60 motor outputs, cooling meter support.
 - **Use Case**: Separates power/control lines from motors and enables safer debugging.
@@ -40,7 +40,7 @@ These folders contain the STL files for each module's faceplates. Modules are st
 - **Connectors**: 3.5mm audio in/out, gain control, power input.
 - **Use Case**: Isolates audio hardware from noisy digital or power circuits.
 
-#### 🧠 Brain Module
+#### 🟪 Brain Module
 - **Purpose**: Hosts your microcontroller and signal interfaces.
 - **Connectors**: USB, serial, I2C, control ports, diagnostic/service panel.
 - **Use Case**: Keeps logic and control wiring separate from power/motor noise.

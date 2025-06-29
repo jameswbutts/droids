@@ -5,7 +5,8 @@ This repo contains the proof-of-concept files from my **DroidCon 2025** talk:
 
 It introduces a modular, stackable enclosure system that separates your droid’s electronics into focused, easy-to-swap modules—making your build safer, more maintainable, and beginner-friendly.
 
-📄 [Slides from the talk](./2025_droidcon_jbutts_slides.pdf)
+📄 [Slides from the talk](./2025_droidcon_jbutts_slides.pdf)  
+🎥 [Watch the talk](https://www.youtube.com/watch?v=dneonUpu4NI)
 
 ---
 
@@ -44,8 +45,6 @@ These folders contain the STL files for each module's faceplates. Modules are st
 - **Connectors**: USB, serial, I2C, control ports, diagnostic/service panel.
 - **Use Case**: Keeps logic and control wiring separate from power/motor noise.
 
-Each module is designed to make individual systems more serviceable, swappable, and beginner-friendly—without having to unbolt or untangle your entire build.
-
 ---
 
 ### `PrintFiles/Base/`
@@ -54,8 +53,6 @@ These files define the enclosure stack system:
 - **Base Plates** – Open or closed bottom options
 - **Top/Bottom Rings** – Universal stackable rings
 - **Feet** – Snap-on supports for stability
-
-Modules drop into these rings and can be stacked vertically.
 
 ---
 
@@ -79,13 +76,4 @@ This system is part of a broader effort to help people learn electronics by doin
 - A supportive, beginner-friendly community
 
 🛠️ **Join the community on Patreon**:  
-👉 [https://www.patreon.com/bringmagic](https://www.patreon.com/bringmagic)
-
-This is a safe space to experiment, ask questions, and build confidence.
-
----
-
-## 📄 License
-
-Released for **personal and educational use**.  
-If you want to remix or sell parts of this system, please contact me through Patreon.
+👉 [https://www.patreon.com/bringmagic](https)
